@@ -154,7 +154,7 @@ tape( 'the command-line interface prints a package name', opts, function test( t
 		if ( error ) {
 			t.fail( error.message );
 		} else {
-			t.strictEqual( stdout.toString(), '@stdlib/math/base/special/sin\n', 'prints expected value' );
+			t.strictEqual( stdout.toString(), '@stdlib/math-base-special-sin\n', 'prints expected value' );
 			t.strictEqual( stderr.toString(), '', 'does not print to `stderr`' );
 		}
 		t.end();

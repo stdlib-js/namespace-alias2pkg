@@ -58,7 +58,7 @@ Returns the package name associated with a specified `alias`.
 
 ```javascript
 var v = alias2pkg( 'base.sin' );
-// returns '@stdlib/math/base/special/sin'
+/- returns '@stdlib-math-base-special-sin'
 ```
 
 If provided an unrecognized `alias`, the function returns `null`.
