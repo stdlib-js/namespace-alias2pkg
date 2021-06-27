@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/namespace-alias2pkg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Return the package name associated with a specified alias.",
   "license": "Apache-2.0",
   "author": {
