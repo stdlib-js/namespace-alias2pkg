@@ -26,7 +26,7 @@
 *
 * @example
 * var v = alias2pkg( 'base.sin' );
-* /- returns '@stdlib-math-base-special-sin'
+* // returns '@stdlib/math/base/special/sin'
 */
 declare function alias2pkg( alias: string ): string | null;
 
