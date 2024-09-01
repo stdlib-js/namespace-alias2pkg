@@ -53,7 +53,7 @@
     "@stdlib/assert-is-browser": "^0.2.2",
     "@stdlib/assert-is-windows": "^0.2.2",
     "@stdlib/fs-write-file": "^0.2.2",
-    "@stdlib/namespace": "^0.2.1",
+    "@stdlib/namespace": "^0.3.1",
     "@stdlib/namespace-aliases": "^0.3.0",
     "@stdlib/process-exec-path": "^0.2.2",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
