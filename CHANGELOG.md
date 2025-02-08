@@ -39,6 +39,7 @@
 <details>
 
 -   [`60334d6`](https://github.com/stdlib-js/stdlib/commit/60334d6d17a9f29c0045c139b8ede24d1182b870) - **refactor:** update paths _(by gururaj1512)_
+-   [`8da0e78`](https://github.com/stdlib-js/stdlib/commit/8da0e787b914f30db9bafcd1c0804ae2f1a99e36) - **refactor:** update paths _(by gururaj1512)_
 -   [`836170d`](https://github.com/stdlib-js/stdlib/commit/836170decec14309639deb41ae3a3c22256d68af) - **refactor:** update paths _(by gururaj1512)_
 -   [`44f6d3a`](https://github.com/stdlib-js/stdlib/commit/44f6d3a8bc68bbdd46bef336268151a883ff5476) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`2360eb3`](https://github.com/stdlib-js/stdlib/commit/2360eb3f0a25330f16ae302f9ed4a13c9fe96af1) - **refactor:** update paths _(by Aayush Khanna)_
