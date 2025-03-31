@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-30)
+## Unreleased (2025-03-31)
 
 <section class="features">
 
@@ -50,6 +50,7 @@
 
 <details>
 
+-   [`20e7abf`](https://github.com/stdlib-js/stdlib/commit/20e7abfa44415e1d1110e941f31746933a3d1df1) - **docs:** update REPL namespace documentation [(#6460)](https://github.com/stdlib-js/stdlib/pull/6460) _(by stdlib-bot)_
 -   [`eac37fb`](https://github.com/stdlib-js/stdlib/commit/eac37fba6f024c71566c6eb9fb37210318d929a3) - **docs:** update REPL namespace documentation [(#6449)](https://github.com/stdlib-js/stdlib/pull/6449) _(by stdlib-bot)_
 -   [`0e620f2`](https://github.com/stdlib-js/stdlib/commit/0e620f286860e21fbaabf59056b12cb1c2154948) - **docs:** update REPL namespace documentation [(#6407)](https://github.com/stdlib-js/stdlib/pull/6407) _(by stdlib-bot)_
 -   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - **feat:** add `ndfillBy` to namespace _(by Athan Reines)_
