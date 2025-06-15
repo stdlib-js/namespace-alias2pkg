@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-13)
+## Unreleased (2025-06-15)
 
 <section class="features">
 
@@ -50,6 +50,7 @@
 
 <details>
 
+-   [`1a6ec86`](https://github.com/stdlib-js/stdlib/commit/1a6ec86b91682b715cc8b37de186e7179ff0f370) - **docs:** update REPL namespace documentation [(#7363)](https://github.com/stdlib-js/stdlib/pull/7363) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`5e6b517`](https://github.com/stdlib-js/stdlib/commit/5e6b5173a0fdd3d50d79125f66dafb7bc13a4bf7) - **docs:** update REPL namespace documentation [(#7339)](https://github.com/stdlib-js/stdlib/pull/7339) _(by stdlib-bot)_
 -   [`00f8cc6`](https://github.com/stdlib-js/stdlib/commit/00f8cc65988a12dcaf37604a885934e8fc73a94e) - **docs:** update REPL namespace documentation [(#7329)](https://github.com/stdlib-js/stdlib/pull/7329) _(by stdlib-bot)_
 -   [`88e6d2f`](https://github.com/stdlib-js/stdlib/commit/88e6d2fb7a4c0e2b4bc767588467080459dcc730) - **docs:** update REPL namespace documentation [(#7314)](https://github.com/stdlib-js/stdlib/pull/7314) _(by stdlib-bot)_
@@ -150,12 +151,13 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Gururaj Gurram
 -   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
