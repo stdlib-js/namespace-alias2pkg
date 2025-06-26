@@ -68,6 +68,7 @@
 -   [`7d29148`](https://github.com/stdlib-js/stdlib/commit/7d29148daa701a3113e72a901fd5096d2a5da4d1) - **docs:** update REPL namespace documentation [(#7232)](https://github.com/stdlib-js/stdlib/pull/7232) _(by stdlib-bot)_
 -   [`6665951`](https://github.com/stdlib-js/stdlib/commit/66659512747686f55bd8e8c0420f8a1d8131a221) - **docs:** update REPL namespace documentation [(#7221)](https://github.com/stdlib-js/stdlib/pull/7221) _(by stdlib-bot)_
 -   [`a317baf`](https://github.com/stdlib-js/stdlib/commit/a317baf0af91e23d7004c9327f6158b165513472) - **docs:** update REPL namespace documentation [(#7045)](https://github.com/stdlib-js/stdlib/pull/7045) _(by stdlib-bot)_
+-   [`47f76c4`](https://github.com/stdlib-js/stdlib/commit/47f76c450e19eb90c7fa2c932b5be286951b0965) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`35b2819`](https://github.com/stdlib-js/stdlib/commit/35b281999025fcd8236f7ca446cf44572cbb00f5) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`522db21`](https://github.com/stdlib-js/stdlib/commit/522db2178742eb14899d7fdcb03b78dd44c544d7) - **docs:** update REPL namespace documentation [(#6718)](https://github.com/stdlib-js/stdlib/pull/6718) _(by stdlib-bot)_
 -   [`cdd16a5`](https://github.com/stdlib-js/stdlib/commit/cdd16a535943832d7f227215467826e0924546ce) - **refactor:** update paths _(by Neeraj Pathak)_
