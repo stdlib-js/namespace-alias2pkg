@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-22)
+## Unreleased (2025-08-16)
 
 <section class="features">
 
@@ -52,6 +52,8 @@
 
 <details>
 
+-   [`ca26c53`](https://github.com/stdlib-js/stdlib/commit/ca26c53f8ecdd292c1addd920a11210dc5af7d9d) - **docs:** update REPL namespace documentation [(#7891)](https://github.com/stdlib-js/stdlib/pull/7891) _(by stdlib-bot)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`ceb1263`](https://github.com/stdlib-js/stdlib/commit/ceb12637184a5fa6e6fed6af39512250938d084d) - **docs:** update REPL namespace documentation [(#7718)](https://github.com/stdlib-js/stdlib/pull/7718) _(by stdlib-bot)_
 -   [`727a636`](https://github.com/stdlib-js/stdlib/commit/727a6368073c7566b7570c07f8cbdb9e2e373ec6) - **docs:** update REPL namespace documentation [(#7685)](https://github.com/stdlib-js/stdlib/pull/7685) _(by stdlib-bot)_
 -   [`91644d7`](https://github.com/stdlib-js/stdlib/commit/91644d75ed97a53e422349d58c0d270e7f796347) - **docs:** update REPL namespace documentation [(#7663)](https://github.com/stdlib-js/stdlib/pull/7663) _(by stdlib-bot)_
