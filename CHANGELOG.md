@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-08)
+## Unreleased (2025-09-19)
 
 <section class="features">
 
 ### Features
 
+-   [`1b05ca5`](https://github.com/stdlib-js/stdlib/commit/1b05ca522641ddeab925abf6c9d29078c2b0a788) - add `DataType` to namespace
 -   [`d2f83a4`](https://github.com/stdlib-js/stdlib/commit/d2f83a48fa6f6dc3ce8898853e10f557ae5aad1f) - add `isStruct` and `isStructConstructorLike` to namespace
 -   [`840c6e8`](https://github.com/stdlib-js/stdlib/commit/840c6e824a40409e0717b6ea5c002476dd462460) - add `structFactory` to namespace
 -   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
@@ -52,6 +53,7 @@
 
 <details>
 
+-   [`1b05ca5`](https://github.com/stdlib-js/stdlib/commit/1b05ca522641ddeab925abf6c9d29078c2b0a788) - **feat:** add `DataType` to namespace _(by Athan Reines)_
 -   [`fe269e2`](https://github.com/stdlib-js/stdlib/commit/fe269e2a7c2ae9bff3868d4c8a7fce1cb64e2a88) - **docs:** update REPL namespace documentation [(#8040)](https://github.com/stdlib-js/stdlib/pull/8040) _(by stdlib-bot)_
 -   [`ca26c53`](https://github.com/stdlib-js/stdlib/commit/ca26c53f8ecdd292c1addd920a11210dc5af7d9d) - **docs:** update REPL namespace documentation [(#7891)](https://github.com/stdlib-js/stdlib/pull/7891) _(by stdlib-bot)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
